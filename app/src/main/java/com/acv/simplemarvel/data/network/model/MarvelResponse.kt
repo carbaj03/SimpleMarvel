@@ -1,4 +1,4 @@
-package com.acv.simplemarvel.data.network.dto
+package com.acv.simplemarvel.data.network.model
 
 import com.acv.simplemarvel.domain.entities.Hero
 import com.google.gson.annotations.SerializedName

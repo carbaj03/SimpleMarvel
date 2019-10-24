@@ -1,8 +1,7 @@
 package com.acv.simplemarvel.data.network.client
 
 
-import com.acv.simplemarvel.data.network.dto.ApiMarvelResponse
-import retrofit2.Call
+import com.acv.simplemarvel.data.network.model.ApiMarvelResponse
 import retrofit2.http.GET
 
 

@@ -7,7 +7,7 @@ import com.acv.simplemarvel.app.di.Injection
 import com.acv.simplemarvel.app.main.NavigatorAc
 import com.acv.simplemarvel.presenter.heroes.HeroesPresenter
 import com.acv.simplemarvel.presenter.heroes.HeroesView
-import com.acv.simplemarvel.presenter.heroes.HeroDto
+import com.acv.simplemarvel.presenter.model.HeroDto
 import kotlinx.android.synthetic.main.fragment_heroes.*
 
 class HeroesFragment : BaseFragment(), HeroesView, Injection, NavigatorAc {

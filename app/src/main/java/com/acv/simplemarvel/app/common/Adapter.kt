@@ -4,7 +4,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.acv.simplemarvel.app.heroes.HeroeViewHolder
-import com.acv.simplemarvel.presenter.heroes.HeroDto
+import com.acv.simplemarvel.presenter.model.HeroDto
 
 typealias SuperHeroAdapter = Adapter<HeroeViewHolder, HeroDto>
 

@@ -2,6 +2,8 @@ package com.acv.simplemarvel.presenter.heroes
 
 import com.acv.simplemarvel.app.common.weak
 import com.acv.simplemarvel.domain.usecase.GetHeroes
+import com.acv.simplemarvel.presenter.model.HeroDto
+import com.acv.simplemarvel.presenter.model.map
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

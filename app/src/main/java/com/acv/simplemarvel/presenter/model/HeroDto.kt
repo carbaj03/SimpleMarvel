@@ -1,4 +1,4 @@
-package com.acv.simplemarvel.presenter.heroes
+package com.acv.simplemarvel.presenter.model
 
 import com.acv.simplemarvel.R
 import com.acv.simplemarvel.app.common.ItemVisitable

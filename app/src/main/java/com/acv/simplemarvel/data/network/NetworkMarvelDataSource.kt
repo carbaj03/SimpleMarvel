@@ -3,7 +3,7 @@ package com.acv.simplemarvel.data.network
 import arrow.core.left
 import arrow.core.right
 import com.acv.simplemarvel.data.network.client.MarvelClient
-import com.acv.simplemarvel.data.network.dto.map
+import com.acv.simplemarvel.data.network.model.map
 import com.acv.simplemarvel.data.network.mapper.NetworkMapper
 import com.acv.simplemarvel.data.repository.MarvelDataSource
 import com.acv.simplemarvel.domain.common.Return

@@ -1,4 +1,4 @@
-package com.acv.simplemarvel.data.network.dto
+package com.acv.simplemarvel.data.network.model
 
 import com.google.gson.annotations.SerializedName
 

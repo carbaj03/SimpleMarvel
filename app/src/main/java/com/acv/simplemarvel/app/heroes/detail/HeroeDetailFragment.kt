@@ -4,7 +4,7 @@ import com.acv.simplemarvel.R
 import com.acv.simplemarvel.app.common.BaseFragment
 import com.acv.simplemarvel.app.common.navigator.WithExtra
 import com.acv.simplemarvel.app.di.Injection
-import com.acv.simplemarvel.presenter.heroes.HeroDto
+import com.acv.simplemarvel.presenter.model.HeroDto
 import com.acv.simplemarvel.presenter.heroes.detail.HeroeDetailPresenter
 import com.acv.simplemarvel.presenter.heroes.detail.HeroeDetailView
 import kotlinx.android.synthetic.main.fragment_heroe.*
